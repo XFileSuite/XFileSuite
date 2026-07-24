@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "platform": "windows",
+  "manifestId": "native-deps-windows-2026.07.20.1",
+  "components": {
+    "ffmpeg": {
+      "version": "8.0.1",
+      "releaseRevision": 1,
+      "architecture": "x64",
+      "r2Key": "deps/ffmpeg-windows-x64-bb1f56224b94ebe1c2654eede162560f4bbbd5774e822957cac0843f5afd6352",
+      "binarySha256": "bb1f56224b94ebe1c2654eede162560f4bbbd5774e822957cac0843f5afd6352",
+      "sourceRelease": "ffmpeg-windows-8.0.1-xfilesuite.1"
+    },
+    "imagemagick": {
+      "version": "7.1.2-27",
+      "releaseRevision": 1,
+      "architecture": "x64",
+      "r2Key": "deps/imagemagick-windows-x64-04bd7be689df0e5aabb2ac7e25e06833815fd587bcb58ee9115137012a23c42c.zip",
+      "bundleSha256": "04bd7be689df0e5aabb2ac7e25e06833815fd587bcb58ee9115137012a23c42c",
+      "sourceRelease": "imagemagick-windows-7.1.2-27-xfilesuite.1"
+    },
+    "libmpv": {
+      "mediaKitPackageVersion": "1.0.11",
+      "assetVersion": "2023-09-24",
+      "releaseRevision": 1,
+      "architecture": "x64",
+      "r2Key": "deps/libmpv-windows-x64-d484adc2a6720f67b22ce58bf95e0601d3cd4394c67a803d736fba492039bd8f.zip",
+      "bundleSha256": "d484adc2a6720f67b22ce58bf95e0601d3cd4394c67a803d736fba492039bd8f",
+      "sourceRelease": "libmpv-windows-2023-09-24-xfilesuite.1"
+    }
+  }
+}
