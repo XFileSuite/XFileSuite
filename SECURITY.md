@@ -11,7 +11,7 @@
 
 If you discover a security vulnerability in XFileSuite, please report it responsibly:
 
-1. **Email**: Send details to `contact@xfilesuite.com` with the subject line `[SECURITY] XFileSuite Vulnerability Report`.
+1. **Email**: Send details to `support@xfilesuite.com` with the subject line `[SECURITY] XFileSuite Vulnerability Report`.
 2. **Include**: A clear description of the issue, steps to reproduce, and potential impact.
 3. **Do NOT** open a public GitHub issue for security-related problems.
 
