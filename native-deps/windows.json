@@ -7,8 +7,8 @@
       "version": "8.0.1",
       "releaseRevision": 2,
       "architecture": "x64",
-      "r2Key": "deps/ffmpeg-windows-x64-a16100ac8810dc6c8a7eac762b4af76cf87f109e011cbf9730bcbff439ddd0f4",
-      "binarySha256": "a16100ac8810dc6c8a7eac762b4af76cf87f109e011cbf9730bcbff439ddd0f4",
+      "r2Key": "deps/ffmpeg-windows-x64-1d5ff7104608b1fa9dfdf0a02c49f0094f35674ae6ce52c01b65b4cd587c9b21",
+      "binarySha256": "1d5ff7104608b1fa9dfdf0a02c49f0094f35674ae6ce52c01b65b4cd587c9b21",
       "sourceRelease": "ffmpeg-windows-8.0.1-xfilesuite.2"
     },
     "imagemagick": {
