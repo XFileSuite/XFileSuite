@@ -4,12 +4,12 @@
   "manifestId": "native-deps-windows-2026.07.20.1",
   "components": {
     "ffmpeg": {
-      "version": "8.0.1",
+      "version": "8.1.2",
       "releaseRevision": 2,
       "architecture": "x64",
       "r2Key": "deps/ffmpeg-windows-x64-1d5ff7104608b1fa9dfdf0a02c49f0094f35674ae6ce52c01b65b4cd587c9b21",
       "binarySha256": "1d5ff7104608b1fa9dfdf0a02c49f0094f35674ae6ce52c01b65b4cd587c9b21",
-      "sourceRelease": "ffmpeg-windows-8.0.1-xfilesuite.2"
+      "sourceRelease": "ffmpeg-windows-8.1.2-xfilesuite.2"
     },
     "imagemagick": {
       "version": "7.1.2-27",
@@ -18,6 +18,14 @@
       "r2Key": "deps/imagemagick-windows-x64-04bd7be689df0e5aabb2ac7e25e06833815fd587bcb58ee9115137012a23c42c.zip",
       "bundleSha256": "04bd7be689df0e5aabb2ac7e25e06833815fd587bcb58ee9115137012a23c42c",
       "sourceRelease": "imagemagick-windows-7.1.2-27-xfilesuite.1"
+    },
+    "mediaRuntime": {
+      "version": "8.1.2-mpv-0.41.0",
+      "releaseRevision": 1,
+      "architecture": "x64",
+      "r2Key": "deps/media-runtime-windows-8.1.2-mpv-0.41.0-72c65f4c2d2f3fc631d4459782517e36b5ea409639e8f0e94f3de46fd029e13c",
+      "bundleSha256": "72c65f4c2d2f3fc631d4459782517e36b5ea409639e8f0e94f3de46fd029e13c",
+      "sourceRelease": "media-runtime-windows-8.1.2-mpv-0.41.0-xfilesuite.1"
     }
   }
 }
