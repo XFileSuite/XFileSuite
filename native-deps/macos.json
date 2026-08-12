@@ -4,12 +4,12 @@
   "manifestId": "native-deps-macos-2026.07.30.1",
   "components": {
     "imagemagick": {
-      "version": "7.1.2-27",
-      "releaseRevision": 1,
+      "version": "7.1.2-29",
+      "releaseRevision": 2,
       "architecture": "universal",
-      "r2Key": "deps/imagemagick-macos-universal-8a6c33f2ec35a553a984913f14e5a41a1a359d751e4e734c0e99eac8dccc916f",
-      "binarySha256": "8a6c33f2ec35a553a984913f14e5a41a1a359d751e4e734c0e99eac8dccc916f",
-      "sourceRelease": "imagemagick-macos-7.1.2-27-xfilesuite.1"
+      "r2Key": "deps/imagemagick-macos-universal-e394152122c5deee214b41eeec90bb9c9f6bec35130fe5f473509497a5a92763.tar.gz",
+      "bundleSha256": "e394152122c5deee214b41eeec90bb9c9f6bec35130fe5f473509497a5a92763",
+      "sourceRelease": "imagemagick-macos-7.1.2-29-xfilesuite.2"
     },
     "resvg": {
       "version": "0.47.0",
