@@ -1,8 +1,6 @@
 # XFileSuite
 
-![macOS Build](https://github.com/XFileSuite/XFileSuite/actions/workflows/build-macos.yml/badge.svg) ![Windows Build](https://github.com/XFileSuite/XFileSuite/actions/workflows/build-windows.yml/badge.svg) ![Deploy](https://github.com/XFileSuite/XFileSuite/actions/workflows/sync-cloudflare.yml/badge.svg)
-
-XFileSuite · 全能预览 — 桌面端全能文件预览与编辑工具的发布仓库。
+XFileSuite · 全能预览 — 桌面端全能文件预览与编辑工具的公开发布仓库。
 
 🌐 **[产品主页](https://xfilesuite.com/)** — 了解 XFileSuite 的完整功能与使用场景
 
@@ -10,11 +8,10 @@ XFileSuite · 全能预览 — 桌面端全能文件预览与编辑工具的发�
 
 | 功能 | 说明 |
 |------|------|
-| **CI/CD 构建** | GitHub Actions 自动构建 macOS 和 Windows 安装包 |
-| **GitHub Releases** | 托管各版本安装包历史归档（DMG / EXE） |
-| **Cloudflare 同步** | 构建完成后触发本仓库的串行同步工作流，再同步最新安装包到 Cloudflare R2 和 API；第三方源码与许可证资料仅发布到 GitHub Release |
+| **GitHub Releases** | 托管各版本安装包历史归档（DMG / EXE）以及第三方对应源码 |
+| **native-deps 清单** | 由 `XFileSuiteNativeDeps` 镜像过来的公开依赖清单 |
 
-> 源代码存放在私有仓库，本仓库仅包含 CI 工作流和发布产物。
+App 打包与 Cloudflare 同步工作流在 [`XFileSuiteNativeDeps`](https://github.com/XFileSuite/XFileSuiteNativeDeps)。源代码在私有仓库 `XFileSuiteSource`。
 
 ## 下载
 
